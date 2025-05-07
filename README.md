@@ -24,7 +24,7 @@ Request Body: JSON string to be parsed
 
 Response: Parsed data or error message if JSON is invalid
 
-Feel free to adjust any details according to your implementation!
+Feel free to adjust any details according to your desired implementation!
 
 
 
